@@ -1,0 +1,24 @@
+{
+  "name": "simple-serviceworker-tutorial-gh-pages",
+  "version": "0.0.2",
+  "description": "local serviceWorker https site",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "http-server": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukul-git/simple-serviceworker-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mukul-git/simple-serviceworker-tutorial/issues"
+  },
+  "homepage": "https://github.com/mukul-git/simple-serviceworker-tutorial"
+}
